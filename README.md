@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @MaxiDOS
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MaxiDOS/MaxiDOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Who I am
+👋 Hi, I'm a college student with a passion for coding and an aspiring 3D modeler.
+# What I do
+- 🟦 Roblox studio scripting using Luau language
+- 🐍 Python 3.x
+- 👾 OnShape modelisation
+# What I learn
+- ♾️ Arduino
+- 👨‍💻 C 
+- ☕ Java
+- ⚡ KiCad
