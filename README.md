@@ -1,4 +1,4 @@
-👋 Hi, I'm a college student with a passion for coding and robotics.
+👋 Hi, I'm a high school student with a passion for coding and robotics.
 # What I do
 - 🎮 Roblox studio scripting using Luau language
 - 🐍 Python 3.x
