@@ -7,7 +7,5 @@
 # What I learn
 - 🟦 TypeScript
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoykad&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![ZoyKad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoykad&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
