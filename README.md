@@ -1,8 +1,8 @@
 👋 Hi, I'm a high school student with a passion for coding and robotics.
 # What I do
-- 🎮 Roblox studio scripting using Luau language
+- 🎮 Game development on Roblox using Luau
 - 🐍 Python 3.x
-- ♾️ Arduino
+- ♾️ Robotics (Arduino/cpp)
 - 👾 3D printing using OnShape
 # What I learn
 - 🟦 TypeScript
