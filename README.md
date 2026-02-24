@@ -5,7 +5,7 @@
 - ⚡ PCB Design using Kicad
 - 🎮 Game development on Roblox using Luau
 # What I learn
-- 🧠 Kinematitcs & Electronics theory
+- 🧠 Kinematics & Electronics theory
 
 
 <!-- [![Zoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoyKad)](https://github.com/anuraghazra/github-readme-stats)) -->
